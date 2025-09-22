@@ -1,5 +1,7 @@
 # CV Modularization Structure
 
+> This tool assumes you already know how to use LaTeX. Its sole purpose is to make it faster and easier to tailor your existing LaTeX CV to specific companies by separating static sections from company-specific content and letting you switch companies via a simple Makefile command.
+
 ## Overview & How to Use
 - All static sections live in `Modules/` and are included automatically.
 - Company-specific content lives in `CompanySpecific/<CompanyName>/` with the following files:
