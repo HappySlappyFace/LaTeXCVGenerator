@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.8.25)  22 SEP 2025 03:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.8.25)  22 SEP 2025 04:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,15 +311,17 @@ File: PhotoIdentite.pdf Graphic file (type pdf)
 <use PhotoIdentite.pdf>
 Package pdftex.def Info: PhotoIdentite.pdf  used on input line 4.
 (pdftex.def)             Requested size: 66.38986pt x 85.35826pt.
-) (./CompanySpecific/test/propos.tex)
-(./Modules/Formation.tex) (./CompanySpecific/test/competences.tex)
-(./Modules/Langues.tex) (./CompanySpecific/test/experience.tex)
-(./CompanySpecific/test/projects.tex) (./CompanySpecific/test/distinctions.tex
+) (./CompanySpecific/newCompany/propos.tex)
+(./Modules/Formation.tex) (./CompanySpecific/newCompany/competences.tex)
+(./Modules/Langues.tex) (./CompanySpecific/newCompany/experience.tex)
+(./CompanySpecific/newCompany/projects.tex)
+(./CompanySpecific/newCompany/distinctions.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
-) (./Modules/ExperienceBenevole.tex)
+)
+(./Modules/ExperienceBenevole.tex)
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -339,8 +341,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9770 strings out of 474651
- 152804 string characters out of 5756723
- 575011 words of memory out of 5000000
+ 153020 string characters out of 5756723
+ 575017 words of memory out of 5000000
  32784 multiletter control sequences out of 15000+600000
  563515 words of font info for 51 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
@@ -354,7 +356,7 @@ csc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/
 public/cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super
 /sfrm1000.pfb>
-Output written on main.pdf (1 page, 179584 bytes).
+Output written on main.pdf (1 page, 179885 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
